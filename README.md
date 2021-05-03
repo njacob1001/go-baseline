@@ -1,12 +1,8 @@
-# Rumm api authentication microservice
+# Go baseline project
 
 [![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/njacob1001/go-baseline)](https://github.com/njacob1001/go-baseline)
 ![Tests and build master](https://github.com/njacob1001/go-baseline/actions/workflows/master.yml/badge.svg)
 
-
-
-
-API for clients data management
 
 For *local development* create  a `.env.delopment` file en then run:
 
